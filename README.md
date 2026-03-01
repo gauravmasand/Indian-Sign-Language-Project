@@ -2,6 +2,8 @@
 
 ![SIH 2024 Finalist](https://img.shields.io/badge/Smart%20India%20Hackathon%202024-Top%205%20Finalist-blue.svg)
 
+🏆 **Smart India Hackathon (SIH) 2024 – Top 5 National Finalist** (Software Category, Ministry of Justice)
+
 Mudra is a comprehensive, AI-powered communication platform designed to bridge the gap between the deaf and hearing communities by providing real-time Indian Sign Language (ISL) translation. [cite_start]The system enables seamless, two-way communication between ISL and spoken languages (English/Hindi) across both web and mobile platforms[cite: 42, 89].
 
 [cite_start]This project was developed for the **Smart India Hackathon (SIH) 2024**, where it was selected as a **Top 5 National Finalist** in the software category by the Ministry of Justice[cite: 39, 44, 100].
